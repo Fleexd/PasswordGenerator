@@ -4,7 +4,7 @@ username = input("Chosen username: ") #User input for the desired username
 pwd = "abcdefghijklmnopqrstuvwxyz01234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ" #All characters that may be used in the generated password
 passlen = 8 #Length of the password
 p =  "".join(random.sample(pwd,passlen )) #Creating password
-print("Site name: "+sitename+"\nUsername: "+username+"\nPassword: "+p +"\n") #Printing the sites name, username, and generated password
+
 
 
 createfile = open("log.log","a+") #Creates a bit stealthier textfile to store all the different credentials for each site.
