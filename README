@@ -1,0 +1,23 @@
+Step-by-step explanation - What does what?
+ - The script will ask you for the name of the site that you are registering your account on
+ - The script will then ask you for your chosen Username
+ - The script will then generate a password for you 
+ - After the entire process is done, the script creates a file in the same folder as the script is located in
+ - In the file, you can see what site you registered on, what username you chose, and what password you got
+ 
+Recommendation & Warnings:
+  - Put the script in a folder of your choice that you can both easily and quickly access
+  - If the script & log file is located in different folders, the script will create a new log file,
+  to avoid this from happening, please place them both in the same folder
+  - People can access your log file if you are logged in or if they have access to your PC, use at your own risk
+  - If you want, you can use a password manager app, open the script, when it is done, you can copy + paste
+  the credentials from the log file, into the password manager app. This is safer for you since it is harder for 
+  other people to get access to your passwords
+  
+  Please check reviews before downloading password managers, for your own safety
+  
+Clarification:
+
+I do not have access to the passwords that are generated to you, I will not get access to them either, they are written as a
+separate file, thus the only way to look at your file is to get access to your PC.
+ 
