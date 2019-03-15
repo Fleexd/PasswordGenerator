@@ -1,0 +1,15 @@
+1. Gathering the necessities
+  Install Python from (https://www.python.org/downloads/)
+
+2. Moving on
+  Download the PasswordGenerator script as ZIP file
+  Unzip the file and move the script to the desired folder 
+  (This is where the Password Manager file will be created after running the script)
+
+3. Running the script
+  Double-click on the script to run it
+  
+4. Completing the process
+  Enter the name of the site
+  Enter the chosen username
+  Script will generate a password for you, and save the entire information given to a file in the same folder
